@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gussing Game</string>
+    <string name="instruction">Instruction\nWhen your number and computer generate number is equal.Then you win.Otherwise you loss this game.</string>
+</resources>
